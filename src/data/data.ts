@@ -1,0 +1,60 @@
+export const courseData = [
+    {
+      id: 1,
+      image: "https://via.placeholder.com/150",
+      title: "JavaScript for Beginners",
+      price: 49.99,
+      author: "John Doe",
+      reviewNumber: 120,
+      lesson: 15,
+      students: 2000,
+      category: "Programming",
+    },
+    {
+      id: 2,
+      image: "https://via.placeholder.com/150",
+      title: "Mastering React.js",
+      price: 79.99,
+      author: "Jane Smith",
+      reviewNumber: 95,
+      lesson: 20,
+      students: 3500,
+      category: "Web Development",
+    },
+    {
+      id: 3,
+      image: "https://via.placeholder.com/150",
+      title: "UI/UX Design Fundamentals",
+      price: 59.99,
+      author: "Emily Johnson",
+      reviewNumber: 88,
+      lesson: 12,
+      students: 1800,
+      category: "Design",
+    },
+    {
+      id: 4,
+      image: "https://via.placeholder.com/150",
+      title: "Python for Data Science",
+      price: 99.99,
+      author: "Michael Brown",
+      reviewNumber: 150,
+      lesson: 25,
+      students: 5000,
+      category: "Data Science",
+    },
+    {
+      id: 5,
+      image: "https://via.placeholder.com/150",
+      title: "Digital Marketing Strategies",
+      price: 39.99,
+      author: "Sarah Wilson",
+      reviewNumber: 70,
+      lesson: 10,
+      students: 1200,
+      category: "Marketing",
+    }
+  ];
+  
+  
+  
